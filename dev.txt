@@ -1,0 +1,6 @@
+color.css
+dev.txt
+index.html
+index.js
+LICENSE
+README.md
